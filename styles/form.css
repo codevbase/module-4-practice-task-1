@@ -1,0 +1,16 @@
+.search-container{
+    text-align: right;
+    position: relative;
+    width: 70%;
+    /* background-color: aquamarine */
+}
+
+.show-image img {
+    width: 70%;
+    height: min-content;
+}
+
+
+.info a{
+    text-decoration: none;
+}
